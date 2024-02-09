@@ -1,0 +1,128 @@
+[{
+  "id": "ad4d4765-0305-429b-a578-043a28705a1e",
+  "name": "John Doe",
+  "email": "john@example.com",
+  "age": 30,
+  "city": "New York",
+  "posts": [
+    {
+      "id": "af0e4bd9-356c-4c99-9a16-917f4e9c8f9c",
+      "title": "Introduction to JSON",
+      "content": "JSON basics",
+      "date": "2022-02-04"
+    },
+    {
+      "id": "e1dd16a3-7d1b-4c91-9c5b-0911f04594e1",
+      "title": "Web Development",
+      "content": "Getting started with web development",
+      "date": "2022-02-05"
+    }
+  ]
+},
+{
+  "id": "c0e6e376-3e36-47e4-9803-31dcd979e2c7",
+  "name": "Jane Doe",
+  "email": "jane@example.com",
+  "age": 28,
+  "city": "San Francisco",
+  "posts": [
+    {
+      "id": "937bc60d-ff9e-4ae3-83c0-b57e16a125fb",
+      "title": "React.js Basics",
+      "content": "Understanding React.js fundamentals",
+      "date": "2022-02-06"
+    }
+  ]
+},
+{
+  "id": "bdac2179-6962-41fe-aacd-7839bdc611ed",
+  "name": "Bob Smith",
+  "email": "bob@example.com",
+  "age": 35,
+  "city": "Chicago",
+  "posts": []
+},
+{
+  "id": "9b0d5e9d-0e3f-4844-8c59-431f0e69c07f",
+  "name": "Alice Johnson",
+  "email": "alice@example.com",
+  "age": 25,
+  "city": "Los Angeles",
+  "posts": [
+    {
+      "id": "f021c8d8-17e7-4e37-a8d7-88566e4ffcd9",
+      "title": "Node.js Introduction",
+      "content": "Getting started with Node.js",
+      "date": "2022-02-07"
+    }
+  ]
+},
+{
+  "id": "f2cc10ee-29f5-4810-87f0-80f64796e80e",
+  "name": "Charlie Brown",
+  "email": "charlie@example.com",
+  "age": 40,
+  "city": "Seattle",
+  "posts": []
+},
+{
+  "id": "8e4647d7-7480-4ad7-a7c0-635040f35bd9",
+  "name": "Eva Davis",
+  "email": "eva@example.com",
+  "age": 32,
+  "city": "Miami",
+  "posts": [
+    {
+      "id": "0b2278d2-384b-4a17-8d20-9a741f3da057",
+      "title": "JavaScript ES6 Features",
+      "content": "Exploring ES6 features",
+      "date": "2022-02-08"
+    }
+  ]
+},
+{
+  "id": "303e1484-4a21-4cd8-8f8d-9675a8d7db22",
+  "name": "Frank White",
+  "email": "frank@example.com",
+  "age": 45,
+  "city": "Dallas",
+  "posts": []
+},
+{
+  "id": "6e0b02b0-0325-4f8b-bff3-ff97f94b772c",
+  "name": "Grace Lee",
+  "email": "grace@example.com",
+  "age": 27,
+  "city": "Houston",
+  "posts": [
+    {
+      "id": "3b55ee49-52de-4c16-98d7-b539a535902a",
+      "title": "Vue.js Basics",
+      "content": "Understanding Vue.js fundamentals",
+      "date": "2022-02-09"
+    }
+  ]
+},
+{
+  "id": "00439cc5-53c9-4b12-9f89-9d2bf0f5f8f8",
+  "name": "Henry Adams",
+  "email": "henry@example.com",
+  "age": 38,
+  "city": "Atlanta",
+  "posts": []
+},
+{
+  "id": "a3a689d3-597c-4d35-bfcf-0b1e4f1a1897",
+  "name": "Ivy Wilson",
+  "email": "ivy@example.com",
+  "age": 29,
+  "city": "Denver",
+  "posts": [
+    {
+      "id": "dd926080-32cb-4463-9ce4-0d1520ef16c2",
+      "title": "CSS Styling Techniques",
+      "content": "Advanced CSS styling",
+      "date": "2022-02-10"
+    }
+  ]
+}]

@@ -1,0 +1,30 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "express and next api",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncastellanosort/next-express-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "nextjs",
+    "react"
+  ],
+  "author": "Nicolas Castellanos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncastellanosort/next-express-api/issues"
+  },
+  "homepage": "https://github.com/ncastellanosort/next-express-api#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
